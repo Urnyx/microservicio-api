@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Order-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UsuarioService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/productos-api" vcs="Git" />
+  </component>
+</project>
